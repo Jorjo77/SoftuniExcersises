@@ -9,3 +9,16 @@ C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFact
 C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.AssemblyInfo.cs
 C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.dll
 C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.exe
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.deps.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.runtimeconfig.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.runtimeconfig.dev.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.csprojAssemblyReference.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.AssemblyInfoInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.AssemblyInfo.cs
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.csproj.CoreCompileInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.genruntimeconfig.cache

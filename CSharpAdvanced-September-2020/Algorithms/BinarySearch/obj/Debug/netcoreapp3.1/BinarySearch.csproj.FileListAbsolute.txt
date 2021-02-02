@@ -8,3 +8,16 @@ C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\Bin
 C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
 C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
 C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csprojAssemblyReference.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache

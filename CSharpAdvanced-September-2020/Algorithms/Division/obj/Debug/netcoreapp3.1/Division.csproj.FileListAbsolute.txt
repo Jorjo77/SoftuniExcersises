@@ -8,3 +8,16 @@ C:\Users\Viktor\source\repos\Algorithms\Division\obj\Debug\netcoreapp3.1\Divisio
 C:\Users\Viktor\source\repos\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
 C:\Users\Viktor\source\repos\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.dll
 C:\Users\Viktor\source\repos\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\bin\Debug\netcoreapp3.1\Division.exe
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\bin\Debug\netcoreapp3.1\Division.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\bin\Debug\netcoreapp3.1\Division.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache

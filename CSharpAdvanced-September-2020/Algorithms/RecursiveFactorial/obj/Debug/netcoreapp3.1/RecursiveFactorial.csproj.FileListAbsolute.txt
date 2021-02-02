@@ -1,0 +1,12 @@
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.exe
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.deps.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfo.cs
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.genruntimeconfig.cache

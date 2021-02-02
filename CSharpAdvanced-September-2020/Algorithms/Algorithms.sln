@@ -3,27 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{26DEAD6E-5B08-4F14-B519-29B44AC32083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "Algorithms\Algorithms.csproj", "{26DEAD6E-5B08-4F14-B519-29B44AC32083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow", "Pow\Pow.csproj", "{FF0CAAB8-8268-409D-B4E9-BCFEA732CEB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pow", "Pow\Pow.csproj", "{FF0CAAB8-8268-409D-B4E9-BCFEA732CEB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfArray", "SumOfArray\SumOfArray.csproj", "{B5069C84-EACA-446B-A8E4-0A7BD26EC580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfArray", "SumOfArray\SumOfArray.csproj", "{B5069C84-EACA-446B-A8E4-0A7BD26EC580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFactorial", "NFactorial\NFactorial.csproj", "{380A6795-DEC2-4865-B321-CB9E4AB381A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NFactorial", "NFactorial\NFactorial.csproj", "{380A6795-DEC2-4865-B321-CB9E4AB381A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations", "Combinations\Combinations.csproj", "{D6F787C5-F5AD-424E-ACAC-F78732B6EEA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combinations", "Combinations\Combinations.csproj", "{D6F787C5-F5AD-424E-ACAC-F78732B6EEA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division", "Division\Division.csproj", "{F889B6D3-7BB5-4375-9859-3726AA5DA5D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Division", "Division\Division.csproj", "{F889B6D3-7BB5-4375-9859-3726AA5DA5D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "SumOfCoins\SumOfCoins.csproj", "{665B7B0D-D32E-4D22-B109-9F077D06D6CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfCoins", "SumOfCoins\SumOfCoins.csproj", "{665B7B0D-D32E-4D22-B109-9F077D06D6CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{2FAD934F-C3D3-40C1-B7DF-D3FD8D046BFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{2FAD934F-C3D3-40C1-B7DF-D3FD8D046BFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{DA420B3D-C53D-4D03-9D2F-4FA78E337669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "QuickSort\QuickSort.csproj", "{DA420B3D-C53D-4D03-9D2F-4FA78E337669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{F484703D-EDA6-4488-8355-A1C7D3A56C10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSort", "MergeSort\MergeSort.csproj", "{F484703D-EDA6-4488-8355-A1C7D3A56C10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickAndMergeSortComparison", "QuickAndMergeSortComparison\QuickAndMergeSortComparison.csproj", "{B3F68FF7-D892-4804-BF5A-5D1A6E151091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickAndMergeSortComparison", "QuickAndMergeSortComparison\QuickAndMergeSortComparison.csproj", "{B3F68FF7-D892-4804-BF5A-5D1A6E151091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memous", "Memous\Memous.csproj", "{1B368A0C-9CD2-4019-9ECD-AF39315B13F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{B6DA2EEE-9C79-41C7-ACA0-42071627AAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{18CA7AB9-F7D5-476F-A51D-1CC10668625D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySymOfCoins", "MySymOfCoins\MySymOfCoins.csproj", "{39A00647-145C-4521-B5A3-9440DD0DBB54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +83,22 @@ Global
 		{B3F68FF7-D892-4804-BF5A-5D1A6E151091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F68FF7-D892-4804-BF5A-5D1A6E151091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F68FF7-D892-4804-BF5A-5D1A6E151091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B368A0C-9CD2-4019-9ECD-AF39315B13F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B368A0C-9CD2-4019-9ECD-AF39315B13F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B368A0C-9CD2-4019-9ECD-AF39315B13F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B368A0C-9CD2-4019-9ECD-AF39315B13F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DA2EEE-9C79-41C7-ACA0-42071627AAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DA2EEE-9C79-41C7-ACA0-42071627AAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DA2EEE-9C79-41C7-ACA0-42071627AAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DA2EEE-9C79-41C7-ACA0-42071627AAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CA7AB9-F7D5-476F-A51D-1CC10668625D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CA7AB9-F7D5-476F-A51D-1CC10668625D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CA7AB9-F7D5-476F-A51D-1CC10668625D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CA7AB9-F7D5-476F-A51D-1CC10668625D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A00647-145C-4521-B5A3-9440DD0DBB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A00647-145C-4521-B5A3-9440DD0DBB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A00647-145C-4521-B5A3-9440DD0DBB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A00647-145C-4521-B5A3-9440DD0DBB54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

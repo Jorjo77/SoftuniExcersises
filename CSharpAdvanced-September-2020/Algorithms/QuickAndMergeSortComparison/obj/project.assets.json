@@ -43,19 +43,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Viktor\\.nuget\\packages\\": {}
+    "C:\\Users\\KeyDtest_1\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\Algorithms\\QuickAndMergeSortComparison\\QuickAndMergeSortComparison.csproj",
+      "projectUniqueName": "C:\\Users\\KeyDtest_1\\source\\repos\\AdvanedC#\\SoftuniExcersises\\CSharpAdvanced-September-2020\\Algorithms\\QuickAndMergeSortComparison\\QuickAndMergeSortComparison.csproj",
       "projectName": "QuickAndMergeSortComparison",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\Algorithms\\QuickAndMergeSortComparison\\QuickAndMergeSortComparison.csproj",
-      "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\Algorithms\\QuickAndMergeSortComparison\\obj\\",
+      "projectPath": "C:\\Users\\KeyDtest_1\\source\\repos\\AdvanedC#\\SoftuniExcersises\\CSharpAdvanced-September-2020\\Algorithms\\QuickAndMergeSortComparison\\QuickAndMergeSortComparison.csproj",
+      "packagesPath": "C:\\Users\\KeyDtest_1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KeyDtest_1\\source\\repos\\AdvanedC#\\SoftuniExcersises\\CSharpAdvanced-September-2020\\Algorithms\\QuickAndMergeSortComparison\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KeyDtest_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,12 +71,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Viktor\\source\\repos\\Algorithms\\MergeSort\\MergeSort.csproj": {
-              "projectPath": "C:\\Users\\Viktor\\source\\repos\\Algorithms\\MergeSort\\MergeSort.csproj"
+            "C:\\Users\\KeyDtest_1\\source\\repos\\AdvanedC#\\SoftuniExcersises\\CSharpAdvanced-September-2020\\Algorithms\\MergeSort\\MergeSort.csproj": {
+              "projectPath": "C:\\Users\\KeyDtest_1\\source\\repos\\AdvanedC#\\SoftuniExcersises\\CSharpAdvanced-September-2020\\Algorithms\\MergeSort\\MergeSort.csproj"
             },
-            "C:\\Users\\Viktor\\source\\repos\\Algorithms\\QuickSort\\QuickSort.csproj": {
-              "projectPath": "C:\\Users\\Viktor\\source\\repos\\Algorithms\\QuickSort\\QuickSort.csproj"
+            "C:\\Users\\KeyDtest_1\\source\\repos\\AdvanedC#\\SoftuniExcersises\\CSharpAdvanced-September-2020\\Algorithms\\QuickSort\\QuickSort.csproj": {
+              "projectPath": "C:\\Users\\KeyDtest_1\\source\\repos\\AdvanedC#\\SoftuniExcersises\\CSharpAdvanced-September-2020\\Algorithms\\QuickSort\\QuickSort.csproj"
             }
           }
         }
@@ -85,6 +90,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -100,7 +106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

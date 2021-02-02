@@ -1,0 +1,25 @@
+﻿using System;
+
+namespace RecursiveFactorial
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine(Factorial(n));
+        }
+
+        private static int Factorial(int n)
+        {
+            if (n==1)
+            {
+                return 1;
+            }
+
+            var result = n * Factorial(n - 1);
+            return result;
+
+        }
+    }
+}

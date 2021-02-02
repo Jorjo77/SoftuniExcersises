@@ -8,3 +8,16 @@ C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOf
 C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.pdb
 C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.dll
 C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.exe
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.deps.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.dev.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.csprojAssemblyReference.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfo.cs
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.genruntimeconfig.cache

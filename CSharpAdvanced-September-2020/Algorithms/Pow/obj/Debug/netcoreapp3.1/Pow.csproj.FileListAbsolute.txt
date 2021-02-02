@@ -8,3 +8,16 @@ C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.Assembly
 C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.AssemblyInfo.cs
 C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.dll
 C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.exe
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.deps.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.runtimeconfig.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.runtimeconfig.dev.json
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.csprojAssemblyReference.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.AssemblyInfoInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.AssemblyInfo.cs
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.csproj.CoreCompileInputs.cache
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.dll
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.pdb
+C:\Users\KeyDtest_1\source\repos\AdvanedC#\SoftuniExcersises\CSharpAdvanced-September-2020\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.genruntimeconfig.cache

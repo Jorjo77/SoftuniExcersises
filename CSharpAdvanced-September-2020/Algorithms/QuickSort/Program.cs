@@ -21,8 +21,6 @@ namespace QuickSort
         {
             if (left < right)
             {
-
-
                 var partitionIndex = Partition(array, left, right);
                 QuickSortImproved(array, left, partitionIndex);
                 QuickSortImproved(array, partitionIndex + 1, right);
@@ -39,13 +37,11 @@ namespace QuickSort
                 do
                 {
                     i++;
-
                 }
                 while (array[i] < pivot);
                 do
                 {
                     j--;
-
                 }
                 while (array[j] > pivot);
 

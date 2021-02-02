@@ -19,8 +19,7 @@ namespace BinarySearch
             Console.WriteLine(count);
         }
 
-        private static int BinarySearch(int[] array, int number, int start,
-            int end)
+        private static int BinarySearch(int[] array, int number, int start, int end)
         {
             if (start > end)
             {
